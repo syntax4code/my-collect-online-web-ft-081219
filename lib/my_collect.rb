@@ -12,3 +12,4 @@ end
 
 my_collect(list) {|i| i.split(" ").first}
 
+array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
